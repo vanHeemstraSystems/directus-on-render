@@ -5,6 +5,8 @@ Based on "Directus" at https://directus.io
 
 Based on "Render" at https://render.com
 
+Based on "Directus on Render" at https://github.com/barakplasma/directus-on-render
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
