@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+directus-on-render
+# Directus on Render
 
-Based on "ABC" at https://www.abc.com/
+Based on "Directus" at https://directus.io
+
+Based on "Render" at https://render.com
 
 ## 100 - Introduction
 
